@@ -1,25 +1,11 @@
-import type { Product, UstGrupNode, GrupNode, AltGrupNode } from "@/types/product";
+import type { Product, UstGrupNode } from "@/types/product";
 
-export const CATEGORY_IMAGES: Record<string, string> = {
-  "MIG-WEC-S-TORCH": "/images/U_MIG-Torch.jpg",
-  "MIG-WEC-TORCH": "/images/U_MIG-Torch.jpg",
-  "MIG-AT-DT-TORCH": "/images/U_MIG-Torch.jpg",
-  "MIG-KIRBAC-TORCH": "/images/U_MIG-Torch.jpg",
-  "TIG-SIVICLI": "/images/U_TIG-Torch.jpg",
-  "TIG-MUSLUKLU": "/images/U_TIG-Torch.jpg",
-  "YP-MIG": "/images/U_YP-1.jpg",
-  "YP-TIG": "/images/U_YP-2.jpg",
-  "YP-TEL": "/images/U_TelSurme.jpg",
-  "YP-SU": "/images/U_SuSogutma.jpg",
-  "CO2-ISITICI-UNITE": "/images/U_Karbondioksit.jpg",
-  "SUSOGUTMA-UNITE": "/images/U_SuSogutma.jpg",
-  "PEL-ELEKTROD": "/images/U_Plazma-1.jpg",
-  "PEL-MEME": "/images/U_Plazma-2.jpg",
-  "PEL-SAF": "/images/U_Plazma-1.jpg",
-  "PEL-TUNGSTEN": "/images/U_Plazma-2.jpg",
-  "ELEKTRONIKKART-UNITE": "/images/U_YP-3.jpg",
-  "GAZVALF-UNITE": "/images/U_YP-3.jpg",
-};
+const IMAGES_BASE = "/images/Urunler/";
+
+function imgOrUndef(val: string | undefined): string | undefined {
+  if (!val || val === "0") return undefined;
+  return IMAGES_BASE + val;
+}
 
 export const ANA_KATEGORI_LABELS: Record<string, string> = {
   MIG: "MIG Torçları",
@@ -39,22 +25,32 @@ export function buildHierarchy(products: Product[]): UstGrupNode[] {
       ustMap.set(p.USTGrup, {
         key: p.USTGrup,
         name: p.USTGrupAciklama,
+        image: imgOrUndef(p.UstGrupImage),
         grups: [],
-        image: CATEGORY_IMAGES[p.USTGrup],
       });
     }
 
     const ustNode = ustMap.get(p.USTGrup)!;
-    let grupNode = ustNode.grups.find((g) => g.key === p.GRUP + "_" + p.USTGrup);
+    let grupNode = ustNode.grups.find((g) => g.key === p.UrunGrup + "_" + p.USTGrup);
 
     if (!grupNode) {
-      grupNode = { key: p.GRUP + "_" + p.USTGrup, name: p.GRUPAciklama, altGrups: [] };
+      grupNode = {
+        key: p.UrunGrup + "_" + p.USTGrup,
+        name: p.UrunGrupAciklama,
+        image: imgOrUndef(p.UrunImage),
+        altGrups: [],
+      };
       ustNode.grups.push(grupNode);
     }
 
     let altNode = grupNode.altGrups.find((a) => a.key === p.ALTGrup);
     if (!altNode) {
-      altNode = { key: p.ALTGrup, name: p.ALTGrupAciklama, products: [] };
+      altNode = {
+        key: p.ALTGrup,
+        name: p.ALTGrupAciklama,
+        image: imgOrUndef(p.AltGrupImage),
+        products: [],
+      };
       grupNode.altGrups.push(altNode);
     }
 
