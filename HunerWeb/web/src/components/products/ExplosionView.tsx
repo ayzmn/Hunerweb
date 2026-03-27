@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { AltGrupNode } from "@/types/product";
 
@@ -11,6 +11,8 @@ interface Props {
 
 export default function ExplosionView({ altGrup, onClose }: Props) {
   const products = altGrup.products;
+  const [imgError, setImgError] = useState(false);
+  const showImage = altGrup.image && !imgError;
 
   return (
     <AnimatePresence>
@@ -36,39 +38,57 @@ export default function ExplosionView({ altGrup, onClose }: Props) {
           }}
         >
           {/* Header */}
-          <div className="flex items-start justify-between mb-6">
-            <div className="flex gap-5 flex-1">
-              {/* AltGrup image */}
-              {altGrup.image && (
-                <div className="relative w-32 h-32 flex-shrink-0 rounded-xl overflow-hidden"
-                  style={{ border: "1px solid rgba(249,115,22,0.2)" }}>
-                  <Image src={altGrup.image} alt={altGrup.name} fill className="object-cover" />
-                </div>
-              )}
-              <div className="flex-1">
-                <div className="section-tag mb-2">Patlamalı Görünüm — Alt Bileşenler</div>
-                <h3 className="text-2xl font-black text-gradient mb-1">{altGrup.name}</h3>
-                <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>
-                  {products.length} ürün bileşeni
-                </p>
-                {/* Teknik özellikler */}
-                {altGrup.ozellik && (
-                  <div className="rounded-lg px-4 py-3" style={{
+          <div className="flex items-start gap-5 mb-8">
+            {/* AltGrup image */}
+            {showImage && (
+              <div
+                className="flex-shrink-0 w-36 h-36 rounded-xl overflow-hidden"
+                style={{ border: "1px solid rgba(249,115,22,0.25)" }}
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={altGrup.image}
+                  alt={altGrup.name}
+                  className="w-full h-full object-cover"
+                  onError={() => setImgError(true)}
+                />
+              </div>
+            )}
+
+            {/* Title + specs */}
+            <div className="flex-1 min-w-0">
+              <div className="section-tag mb-2">Patlamalı Görünüm — Alt Bileşenler</div>
+              <h3 className="text-2xl font-black text-gradient mb-1">{altGrup.name}</h3>
+              <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>
+                {products.length} ürün bileşeni
+              </p>
+
+              {/* Teknik özellikler */}
+              {altGrup.ozellik && (
+                <div
+                  className="rounded-lg px-4 py-3 space-y-0.5"
+                  style={{
                     background: "rgba(249,115,22,0.06)",
                     border: "1px solid rgba(249,115,22,0.15)",
-                  }}>
-                    {altGrup.ozellik.split("\n").map((line, i) => (
-                      <p key={i} className="text-xs" style={{ color: i === 0 ? "var(--orange)" : "var(--muted)" }}>
-                        {line}
-                      </p>
-                    ))}
-                  </div>
-                )}
-              </div>
+                  }}
+                >
+                  {altGrup.ozellik.split("\n").filter(Boolean).map((line, i) => (
+                    <p
+                      key={i}
+                      className="text-xs leading-5"
+                      style={{ color: i === 0 ? "var(--orange)" : "var(--muted)" }}
+                    >
+                      {line}
+                    </p>
+                  ))}
+                </div>
+              )}
             </div>
+
+            {/* Close */}
             <button
               onClick={onClose}
-              className="w-10 h-10 rounded-full flex items-center justify-center text-lg transition-all hover:scale-110 ml-4 flex-shrink-0"
+              className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center text-lg transition-all hover:scale-110"
               style={{
                 background: "rgba(249,115,22,0.1)",
                 border: "1px solid rgba(249,115,22,0.3)",
@@ -98,7 +118,7 @@ export default function ExplosionView({ altGrup, onClose }: Props) {
                     damping: 20,
                     delay: i * 0.04,
                   }}
-                  className="rounded-xl p-4 group"
+                  className="rounded-xl p-4"
                   style={{
                     background: "rgba(249,115,22,0.04)",
                     border: "1px solid rgba(249,115,22,0.12)",
@@ -109,34 +129,26 @@ export default function ExplosionView({ altGrup, onClose }: Props) {
                     background: "rgba(249,115,22,0.08)",
                   }}
                 >
-                  {/* Product code badge */}
                   <div className="flex items-start justify-between mb-3">
                     <span
                       className="text-xs font-mono font-bold px-2 py-1 rounded"
-                      style={{
-                        background: "rgba(249,115,22,0.15)",
-                        color: "var(--orange)",
-                      }}
+                      style={{ background: "rgba(249,115,22,0.15)", color: "var(--orange)" }}
                     >
                       {p.UrunKod}
                     </span>
                     {p.Fiyat && p.Fiyat !== "" && (
-                      <span
-                        className="text-xs font-semibold"
-                        style={{ color: "var(--amber)" }}
-                      >
+                      <span className="text-xs font-semibold" style={{ color: "var(--amber)" }}>
                         {p.Fiyat}
                       </span>
                     )}
                   </div>
-
                   <p className="text-sm font-medium" style={{ color: "var(--text)" }}>
                     {p.Aciklama}
                   </p>
-
                   {p.KullananUrunKod && (
                     <div className="mt-2 text-xs" style={{ color: "var(--muted)" }}>
-                      Uyumlu: <span style={{ color: "rgba(249,115,22,0.7)" }}>{p.KullananUrunKod}</span>
+                      Uyumlu:{" "}
+                      <span style={{ color: "rgba(249,115,22,0.7)" }}>{p.KullananUrunKod}</span>
                     </div>
                   )}
                 </motion.div>
@@ -144,19 +156,19 @@ export default function ExplosionView({ altGrup, onClose }: Props) {
             })}
           </div>
 
-          {/* Footer note */}
+          {/* Footer */}
           <div
             className="mt-6 pt-6 text-center text-xs"
-            style={{
-              borderTop: "1px solid rgba(249,115,22,0.1)",
-              color: "var(--muted)",
-            }}
+            style={{ borderTop: "1px solid rgba(249,115,22,0.1)", color: "var(--muted)" }}
           >
             Fiyat bilgisi için lütfen{" "}
             <button
               onClick={() => {
                 onClose();
-                setTimeout(() => document.getElementById("iletisim")?.scrollIntoView({ behavior: "smooth" }), 300);
+                setTimeout(
+                  () => document.getElementById("iletisim")?.scrollIntoView({ behavior: "smooth" }),
+                  300
+                );
               }}
               className="underline"
               style={{ color: "var(--orange)" }}
