@@ -1915,7 +1915,7 @@
         "UstGrupImage": "Ust_SuSogutma.jpg",
         "ALTGrup": "SS-UNITE",
         "ALTGrupAciklama": "Su Soğutma Ünitesi",
-        "AltGrupUrunOzellik": "ÖZELLİKLER\nSU DEPOSU \t8 lt.\nMOTOR\n230 AC - 2,5 Amp - 0,37 Kw\n50 Hz - 2800 Rpm\nPOMPA\n40 Hmax - 40 to C\n7 QMax litre/min - 1,1 Pkw\nAĞIRLIK\t15,5 Kg.\nÖLÇÜLER\tDerinlik: 24,5 cm",
+        "AltGrupUrunOzellik": "ÖZELLİKLER\nMOTOR: 230 AC - 2,5 Amp - 0,37 Kw / 50 Hz - 2800 Rpm\nPOMPA: 40 Hmax - 40 to C / 7 QMax litre/min - 1,1 Pkw\nSU DEPOSU \t8 lt.\nAĞIRLIK\t15,5 Kg.\nÖLÇÜLER\tDerinlik: 24,5 cm",
         "AltGrupImage": "Ust_SuSogutma.jpg",
         "KullananUrunKod": ""
     },
@@ -2841,10 +2841,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2857,10 +2857,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2873,10 +2873,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2889,10 +2889,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2905,10 +2905,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2921,10 +2921,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2937,10 +2937,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2953,10 +2953,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2969,10 +2969,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -2985,10 +2985,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3001,10 +3001,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3017,10 +3017,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3033,10 +3033,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3049,10 +3049,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3065,10 +3065,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-HAVA",
+        "ALTGrupAciklama": "Hava Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3081,10 +3081,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3097,10 +3097,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3113,10 +3113,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3129,10 +3129,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3145,10 +3145,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -3161,10 +3161,10 @@
         "USTGrup": "YP-MIG",
         "USTGrupAciklama": "MIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-MIG.jpg",
-        "ALTGrup": "YP-MIG-ILETKEN",
-        "ALTGrupAciklama": "İletkenler",
+        "ALTGrup": "YP-MIG-ILETKEN-SU",
+        "ALTGrupAciklama": "Su Soğutmalı İletken",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
+        "AltGrupImage": "0",
         "KullananUrunKod": ""
     },
     {
@@ -8153,10 +8153,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8169,10 +8169,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8185,10 +8185,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8201,10 +8201,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8217,10 +8217,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8233,10 +8233,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8249,10 +8249,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8265,10 +8265,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8281,10 +8281,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-10N",
+        "ALTGrupAciklama": "Seramik Nozullar 10N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-10N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8297,10 +8297,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-13N",
+        "ALTGrupAciklama": "Seramik Nozullar 13N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-13N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8313,10 +8313,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-13N",
+        "ALTGrupAciklama": "Seramik Nozullar 13N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-13N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8329,10 +8329,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-13N",
+        "ALTGrupAciklama": "Seramik Nozullar 13N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-13N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8345,10 +8345,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-13N",
+        "ALTGrupAciklama": "Seramik Nozullar 13N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-13N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8361,10 +8361,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-13N",
+        "ALTGrupAciklama": "Seramik Nozullar 13N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-13N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8377,10 +8377,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-13N",
+        "ALTGrupAciklama": "Seramik Nozullar 13N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-13N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8393,10 +8393,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-53N",
+        "ALTGrupAciklama": "Seramik Nozullar 53N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-53N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8409,10 +8409,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-53N",
+        "ALTGrupAciklama": "Seramik Nozullar 53N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-53N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8425,10 +8425,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-53N",
+        "ALTGrupAciklama": "Seramik Nozullar 53N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-53N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8441,10 +8441,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-53N",
+        "ALTGrupAciklama": "Seramik Nozullar 53N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-53N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8457,10 +8457,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-54N",
+        "ALTGrupAciklama": "Seramik Nozullar 54N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-54N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8473,10 +8473,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-54N",
+        "ALTGrupAciklama": "Seramik Nozullar 54N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-54N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8489,10 +8489,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-54N",
+        "ALTGrupAciklama": "Seramik Nozullar 54N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-54N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8505,10 +8505,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-54N",
+        "ALTGrupAciklama": "Seramik Nozullar 54N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-54N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8521,10 +8521,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-54N",
+        "ALTGrupAciklama": "Seramik Nozullar 54N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-54N.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8537,10 +8537,10 @@
         "USTGrup": "YP-TIG",
         "USTGrupAciklama": "TIG Torch Yedekler",
         "UstGrupImage": "Ust_YP-TIG.jpg",
-        "ALTGrup": "YP-TIG-NOZUL",
-        "ALTGrupAciklama": "Seramik Nozullar",
+        "ALTGrup": "YP-TIG-NOZUL-54N",
+        "ALTGrupAciklama": "Seramik Nozullar 54N",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "YP-TIG-NOZUL.jpg",
+        "AltGrupImage": "YP-TIG-NOZUL-54N.jpg",
         "KullananUrunKod": ""
     },
     {
