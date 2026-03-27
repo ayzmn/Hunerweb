@@ -12,15 +12,13 @@ const ANA_KATEGORI_ICONS: Record<string, string> = {
   TIG: "🔴",
   YP: "🔧",
   UNITE: "⚙️",
-  PLAZMA: "⚡",
 };
 
 const ANA_KATEGORI_DESC: Record<string, string> = {
   MIG: "Metal İnert Gaz kaynak torçları. Seri üretime uygun, yüksek verimli.",
   TIG: "Tungsten İnert Gaz torçları. Hassas, temiz kaynak için ideal.",
-  YP: "MIG, TIG ve plazma torçlarına özel orijinal yedek parçalar.",
+  YP: "MIG ve TIG torçlarına özel orijinal yedek parçalar.",
   UNITE: "CO2 ısıtıcı, su soğutma, elektronik kart ve gaz valfleri.",
-  PLAZMA: "Plazma kesim torçlarına uyumlu elektrot, meme ve aksesuarlar.",
 };
 
 export default function ProductsSection() {

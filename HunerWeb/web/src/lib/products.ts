@@ -12,7 +12,6 @@ export const ANA_KATEGORI_LABELS: Record<string, string> = {
   TIG: "TIG Torçları",
   YP: "Yedek Parça",
   UNITE: "Üniteler",
-  PLAZMA: "Plazma",
 };
 
 export function buildHierarchy(products: Product[]): UstGrupNode[] {
@@ -66,14 +65,12 @@ export function groupByAnaKategori(nodes: UstGrupNode[]): Record<string, UstGrup
     TIG: [],
     YP: [],
     UNITE: [],
-    PLAZMA: [],
   };
 
   for (const node of nodes) {
     if (node.key.startsWith("MIG-")) groups.MIG.push(node);
     else if (node.key.startsWith("TIG-")) groups.TIG.push(node);
     else if (node.key.startsWith("YP-")) groups.YP.push(node);
-    else if (node.key.startsWith("PEL-")) groups.PLAZMA.push(node);
     else groups.UNITE.push(node);
   }
 
