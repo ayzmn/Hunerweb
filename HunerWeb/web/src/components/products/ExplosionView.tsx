@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import type { AltGrupNode } from "@/types/product";
 
@@ -35,21 +36,39 @@ export default function ExplosionView({ altGrup, onClose }: Props) {
           }}
         >
           {/* Header */}
-          <div className="flex items-start justify-between mb-8">
-            <div>
-              <div className="section-tag mb-3">Patlamalı Görünüm — Alt Bileşenler</div>
-              <h3
-                className="text-2xl font-black text-gradient"
-              >
-                {altGrup.name}
-              </h3>
-              <p className="text-sm mt-1" style={{ color: "var(--muted)" }}>
-                {products.length} ürün bileşeni
-              </p>
+          <div className="flex items-start justify-between mb-6">
+            <div className="flex gap-5 flex-1">
+              {/* AltGrup image */}
+              {altGrup.image && (
+                <div className="relative w-32 h-32 flex-shrink-0 rounded-xl overflow-hidden"
+                  style={{ border: "1px solid rgba(249,115,22,0.2)" }}>
+                  <Image src={altGrup.image} alt={altGrup.name} fill className="object-cover" />
+                </div>
+              )}
+              <div className="flex-1">
+                <div className="section-tag mb-2">Patlamalı Görünüm — Alt Bileşenler</div>
+                <h3 className="text-2xl font-black text-gradient mb-1">{altGrup.name}</h3>
+                <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>
+                  {products.length} ürün bileşeni
+                </p>
+                {/* Teknik özellikler */}
+                {altGrup.ozellik && (
+                  <div className="rounded-lg px-4 py-3" style={{
+                    background: "rgba(249,115,22,0.06)",
+                    border: "1px solid rgba(249,115,22,0.15)",
+                  }}>
+                    {altGrup.ozellik.split("\n").map((line, i) => (
+                      <p key={i} className="text-xs" style={{ color: i === 0 ? "var(--orange)" : "var(--muted)" }}>
+                        {line}
+                      </p>
+                    ))}
+                  </div>
+                )}
+              </div>
             </div>
             <button
               onClick={onClose}
-              className="w-10 h-10 rounded-full flex items-center justify-center text-lg transition-all hover:scale-110"
+              className="w-10 h-10 rounded-full flex items-center justify-center text-lg transition-all hover:scale-110 ml-4 flex-shrink-0"
               style={{
                 background: "rgba(249,115,22,0.1)",
                 border: "1px solid rgba(249,115,22,0.3)",

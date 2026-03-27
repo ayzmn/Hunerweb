@@ -48,6 +48,7 @@ export function buildHierarchy(products: Product[]): UstGrupNode[] {
         key: p.ALTGrup,
         name: p.ALTGrupAciklama,
         image: imgOrUndef(p.AltGrupImage),
+        ozellik: p.AltGrupUrunOzellik && p.AltGrupUrunOzellik !== "0" ? p.AltGrupUrunOzellik : undefined,
         products: [],
       };
       grupNode.altGrups.push(altNode);

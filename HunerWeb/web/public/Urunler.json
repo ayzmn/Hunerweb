@@ -11,7 +11,8 @@
         "UstGrupImage": "Ust_co2-isitici.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -26,7 +27,8 @@
         "UstGrupImage": "Ust_co2-isitici.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -41,7 +43,8 @@
         "UstGrupImage": "Ust_co2-isitici.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -56,7 +59,8 @@
         "UstGrupImage": "Ust_co2-isitici.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -71,7 +75,8 @@
         "UstGrupImage": "Ust_co2-isitici.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -86,7 +91,8 @@
         "UstGrupImage": "Ust_co2-isitici.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -101,7 +107,8 @@
         "UstGrupImage": "Ust_ElekKart.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -116,7 +123,8 @@
         "UstGrupImage": "Ust_ElekKart.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -131,7 +139,8 @@
         "UstGrupImage": "Ust_GazValf.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -146,7 +155,8 @@
         "UstGrupImage": "Ust_GazValf.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -161,7 +171,8 @@
         "UstGrupImage": "Ust_GazValf.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -176,7 +187,8 @@
         "UstGrupImage": "Ust_GazValf.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -191,7 +203,8 @@
         "UstGrupImage": "Ust_GazValf.jpg",
         "ALTGrup": "UNITE",
         "ALTGrupAciklama": "Ünitesi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "UNITE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -206,7 +219,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-404",
         "ALTGrupAciklama": "404",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-404.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -221,7 +235,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-404",
         "ALTGrupAciklama": "404",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-404.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -236,7 +251,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-404",
         "ALTGrupAciklama": "404",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-404.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -251,7 +267,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-404",
         "ALTGrupAciklama": "404",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-404.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -266,7 +283,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-404",
         "ALTGrupAciklama": "404",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-404.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -281,7 +299,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-404",
         "ALTGrupAciklama": "404",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-404.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -296,7 +315,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-300",
         "ALTGrupAciklama": "AT 300",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-AT-300.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -311,7 +331,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-300",
         "ALTGrupAciklama": "AT 300",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-AT-300.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -326,7 +347,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-300",
         "ALTGrupAciklama": "AT 300",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-AT-300.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -341,7 +363,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-400",
         "ALTGrupAciklama": "AT 400",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-AT-400.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -356,7 +379,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-400",
         "ALTGrupAciklama": "AT 400",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-AT-400.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -371,7 +395,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-400",
         "ALTGrupAciklama": "AT 400",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-AT-400.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -386,7 +411,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-ATÖ-500",
         "ALTGrupAciklama": "ATÖ 500",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-ATÖ-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -401,7 +427,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-ATÖ-500",
         "ALTGrupAciklama": "ATÖ 500",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-ATÖ-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -416,7 +443,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-ATÖ-500",
         "ALTGrupAciklama": "ATÖ 500",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-ATÖ-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -431,7 +459,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-ET",
         "ALTGrupAciklama": "DT 650 ET",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-650-ET.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -446,7 +475,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-ET",
         "ALTGrupAciklama": "DT 650 ET",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-650-ET.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -461,7 +491,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-ET",
         "ALTGrupAciklama": "DT 650 ET",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-650-ET.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -476,7 +507,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-YT",
         "ALTGrupAciklama": "DT 650 YT",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-650-YT.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -491,7 +523,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-YT",
         "ALTGrupAciklama": "DT 650 YT",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-650-YT.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -506,7 +539,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-YT",
         "ALTGrupAciklama": "DT 650 YT",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-650-YT.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -521,7 +555,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-700",
         "ALTGrupAciklama": "DT 700",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-700.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -536,7 +571,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-700",
         "ALTGrupAciklama": "DT 700",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-700.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -551,7 +587,8 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-700",
         "ALTGrupAciklama": "DT 700",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-DT-700.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -566,7 +603,8 @@
         "UstGrupImage": "Ust_MIG-Kirbac.jpg",
         "ALTGrup": "MIG-KIRBAC-150",
         "ALTGrupAciklama": "Kırbaç 150",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-KIRBAC-150.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -581,7 +619,8 @@
         "UstGrupImage": "Ust_MIG-Kirbac.jpg",
         "ALTGrup": "MIG-KIRBAC-150",
         "ALTGrupAciklama": "Kırbaç 150",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-KIRBAC-150.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -596,7 +635,8 @@
         "UstGrupImage": "Ust_MIG-Kirbac.jpg",
         "ALTGrup": "MIG-KIRBAC-150",
         "ALTGrupAciklama": "Kırbaç 150",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-KIRBAC-150.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -611,7 +651,8 @@
         "UstGrupImage": "Ust_MIG-Kirbac.jpg",
         "ALTGrup": "MIG-KIRBAC-250",
         "ALTGrupAciklama": "Kırbaç 250",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-KIRBAC-250.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -626,7 +667,8 @@
         "UstGrupImage": "Ust_MIG-Kirbac.jpg",
         "ALTGrup": "MIG-KIRBAC-250",
         "ALTGrupAciklama": "Kırbaç 250",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-KIRBAC-250.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -641,7 +683,8 @@
         "UstGrupImage": "Ust_MIG-Kirbac.jpg",
         "ALTGrup": "MIG-KIRBAC-250",
         "ALTGrupAciklama": "Kırbaç 250",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-KIRBAC-250.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -656,7 +699,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-180",
         "ALTGrupAciklama": "Prowec 180",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -671,7 +715,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-180",
         "ALTGrupAciklama": "Prowec 180",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -686,7 +731,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-240",
         "ALTGrupAciklama": "Prowec 240",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -701,7 +747,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-240",
         "ALTGrupAciklama": "Prowec 240",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -716,7 +763,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-260",
         "ALTGrupAciklama": "Prowec 260",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -731,7 +779,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-260",
         "ALTGrupAciklama": "Prowec 260",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -746,7 +795,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-360",
         "ALTGrupAciklama": "Prowec 360",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -761,7 +811,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-360",
         "ALTGrupAciklama": "Prowec 360",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -776,7 +827,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-510",
         "ALTGrupAciklama": "Prowec 510",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -791,7 +843,8 @@
         "UstGrupImage": "Ust_MIG-Prowec.jpg",
         "ALTGrup": "MIG-PROWEC-510",
         "ALTGrupAciklama": "Prowec 510",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-PROWEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -805,8 +858,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-180",
-        "ALTGrupAciklama": "WEC-S-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 180",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -820,8 +874,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-180",
-        "ALTGrupAciklama": "WEC-S-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 180",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -835,8 +890,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-180",
-        "ALTGrupAciklama": "WEC-S-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 180",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -850,8 +906,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-180",
-        "ALTGrupAciklama": "WEC-S-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 180",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -865,8 +922,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-180",
-        "ALTGrupAciklama": "WEC-S-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 180",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -880,8 +938,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-180",
-        "ALTGrupAciklama": "WEC-S-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 180",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -895,8 +954,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-205",
-        "ALTGrupAciklama": "WEC-S 205",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S  205",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-205.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -910,8 +970,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-205",
-        "ALTGrupAciklama": "WEC-S 205",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S  205",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-205.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -925,8 +986,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-205",
-        "ALTGrupAciklama": "WEC-S 205",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S  205",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-205.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -940,8 +1002,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-240",
-        "ALTGrupAciklama": "WEC-S-240",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 240",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -955,8 +1018,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-240",
-        "ALTGrupAciklama": "WEC-S-240",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 240",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -970,8 +1034,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-240",
-        "ALTGrupAciklama": "WEC-S-240",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 240",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -985,8 +1050,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-260",
-        "ALTGrupAciklama": "WEC-S-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 260",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1000,8 +1066,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-260",
-        "ALTGrupAciklama": "WEC-S-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 260",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1015,8 +1082,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-260",
-        "ALTGrupAciklama": "WEC-S-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 260",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1030,8 +1098,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-260",
-        "ALTGrupAciklama": "WEC-S-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 260",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1045,8 +1114,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-260",
-        "ALTGrupAciklama": "WEC-S-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 260",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1060,8 +1130,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-260",
-        "ALTGrupAciklama": "WEC-S-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 260",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1075,8 +1146,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-305",
-        "ALTGrupAciklama": "WEC-S 305",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 305",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-305.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1090,8 +1162,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-305",
-        "ALTGrupAciklama": "WEC-S 305",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 305",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-305.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1105,8 +1178,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-305",
-        "ALTGrupAciklama": "WEC-S 305",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 305",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-305.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1120,8 +1194,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-305",
-        "ALTGrupAciklama": "WEC-S 305",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 305",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-305.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1135,8 +1210,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-360",
-        "ALTGrupAciklama": "WEC-S-360",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 360",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1150,8 +1226,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-360",
-        "ALTGrupAciklama": "WEC-S-360",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 360",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1165,8 +1242,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-360",
-        "ALTGrupAciklama": "WEC-S-360",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 360",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1180,8 +1258,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-405",
-        "ALTGrupAciklama": "WEC-S 405",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 405",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-405.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1195,8 +1274,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-405",
-        "ALTGrupAciklama": "WEC-S 405",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 405",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-405.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1210,8 +1290,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-405",
-        "ALTGrupAciklama": "WEC-S 405",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 405",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-405.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1225,8 +1306,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-500",
-        "ALTGrupAciklama": "WEC-S-500",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 500",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1240,8 +1322,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-500",
-        "ALTGrupAciklama": "WEC-S-500",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 500",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1255,8 +1338,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-500",
-        "ALTGrupAciklama": "WEC-S-500",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 500",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1270,8 +1354,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-505",
-        "ALTGrupAciklama": "WEC-S 505",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 505",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-505.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1285,8 +1370,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-505",
-        "ALTGrupAciklama": "WEC-S 505",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 505",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-505.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1300,8 +1386,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-510W",
-        "ALTGrupAciklama": "WEC-S-510 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 510 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-510W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1315,8 +1402,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-510W",
-        "ALTGrupAciklama": "WEC-S-510 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 510 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-510W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1330,8 +1418,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-510W",
-        "ALTGrupAciklama": "WEC-S-510 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 510 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-510W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1345,8 +1434,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-515W",
-        "ALTGrupAciklama": "WEC-S 515 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 515 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-515W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1360,8 +1450,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-515W",
-        "ALTGrupAciklama": "WEC-S 515 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 515 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-515W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1375,8 +1466,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-515W",
-        "ALTGrupAciklama": "WEC-S 515 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 515 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-515W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1390,8 +1482,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-610W",
-        "ALTGrupAciklama": "WEC-S-610 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 610 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-610W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1405,8 +1498,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-610W",
-        "ALTGrupAciklama": "WEC-S-610 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 610 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-610W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1420,8 +1514,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-610W",
-        "ALTGrupAciklama": "WEC-S-610 W Su Soğutmalı",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 610 W Su Soğutmalı",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-610W.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1435,8 +1530,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-655",
-        "ALTGrupAciklama": "WEC-S-655",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 655",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-655.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1450,8 +1546,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-655",
-        "ALTGrupAciklama": "WEC-S-655",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 655",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-655.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1465,8 +1562,9 @@
         "USTGrupAciklama": "MIG WEC-S TORCH",
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-655",
-        "ALTGrupAciklama": "WEC-S-655",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC S 655",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-S-655.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1480,8 +1578,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-180",
-        "ALTGrupAciklama": "WEC-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 180",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n180 Amp. CO2 / 150 Amp. KARIŞIM GAZ\nÇalışma Süresi : % 60\nTel Çapı : 0.6 - 1.0 mm.",
+        "AltGrupImage": "MIG-WEC-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1495,8 +1594,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-180",
-        "ALTGrupAciklama": "WEC-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 180",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n180 Amp. CO2 / 150 Amp. KARIŞIM GAZ\nÇalışma Süresi : % 60\nTel Çapı : 0.6 - 1.0 mm.",
+        "AltGrupImage": "MIG-WEC-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1510,8 +1610,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-180",
-        "ALTGrupAciklama": "WEC-180",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 180",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n180 Amp. CO2 / 150 Amp. KARIŞIM GAZ\nÇalışma Süresi : % 60\nTel Çapı : 0.6 - 1.0 mm.",
+        "AltGrupImage": "MIG-WEC-180.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1525,8 +1626,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-240",
-        "ALTGrupAciklama": "WEC-240",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 240",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupImage": "MIG-WEC-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1540,8 +1642,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-240",
-        "ALTGrupAciklama": "WEC-240",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 240",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupImage": "MIG-WEC-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1555,8 +1658,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-240",
-        "ALTGrupAciklama": "WEC-240",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 240",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupImage": "MIG-WEC-240.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1570,8 +1674,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-260",
-        "ALTGrupAciklama": "WEC-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 260",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupImage": "MIG-WEC-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1585,8 +1690,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-260",
-        "ALTGrupAciklama": "WEC-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 260",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupImage": "MIG-WEC-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1600,8 +1706,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-260",
-        "ALTGrupAciklama": "WEC-260",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 260",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupImage": "MIG-WEC-260.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1615,8 +1722,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-360",
-        "ALTGrupAciklama": "WEC-360",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 360",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1630,8 +1738,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-360",
-        "ALTGrupAciklama": "WEC-360",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 360",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1645,8 +1754,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-360",
-        "ALTGrupAciklama": "WEC-360",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 360",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-360.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1660,8 +1770,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-500",
-        "ALTGrupAciklama": "WEC-500",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 500",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1675,8 +1786,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-500",
-        "ALTGrupAciklama": "WEC-500",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 500",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1690,8 +1802,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-500",
-        "ALTGrupAciklama": "WEC-500",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 500",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1705,8 +1818,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-510",
-        "ALTGrupAciklama": "WEC-510",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 510",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1720,8 +1834,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-510",
-        "ALTGrupAciklama": "WEC-510",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 510",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1735,8 +1850,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-510",
-        "ALTGrupAciklama": "WEC-510",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 510",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-510.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1750,8 +1866,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-610",
-        "ALTGrupAciklama": "WEC-610W",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 610",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-610.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1765,8 +1882,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-610",
-        "ALTGrupAciklama": "WEC-610W",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 610",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-610.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1780,8 +1898,9 @@
         "USTGrupAciklama": "MIG WEC TORCH",
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-610",
-        "ALTGrupAciklama": "WEC-610W",
-        "AltGrupImage": "0",
+        "ALTGrupAciklama": "WEC 610",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "MIG-WEC-610.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1796,6 +1915,7 @@
         "UstGrupImage": "Ust_SuSogutma.jpg",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -1811,7 +1931,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP17V",
         "ALTGrupAciklama": "WP 17 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-17V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1826,7 +1947,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP17V",
         "ALTGrupAciklama": "WP 17 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-17V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1841,7 +1963,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP17V",
         "ALTGrupAciklama": "WP 17 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-17V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1856,7 +1979,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP26V",
         "ALTGrupAciklama": "WP 26 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-26V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1871,7 +1995,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP26V",
         "ALTGrupAciklama": "WP 26 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-26V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1886,7 +2011,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP26V",
         "ALTGrupAciklama": "WP 26 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-26V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1901,7 +2027,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP9V",
         "ALTGrupAciklama": "WP 9 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-9V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1916,7 +2043,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP9V",
         "ALTGrupAciklama": "WP 9 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-9V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1931,7 +2059,8 @@
         "UstGrupImage": "Ust_TIG-Musluklu.jpg",
         "ALTGrup": "TIG-MUSLUKLU-WP9V",
         "ALTGrupAciklama": "WP 9 V",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-9V.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1946,7 +2075,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP17",
         "ALTGrupAciklama": "WP 17",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-17.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1961,7 +2091,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP17",
         "ALTGrupAciklama": "WP 17",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-17.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1976,7 +2107,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP17",
         "ALTGrupAciklama": "WP 17",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-17.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -1991,7 +2123,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP18",
         "ALTGrupAciklama": "WP 18 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-18.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2006,7 +2139,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP18",
         "ALTGrupAciklama": "WP 18 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-18.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2021,7 +2155,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP18",
         "ALTGrupAciklama": "WP 18 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-18.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2036,7 +2171,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP20",
         "ALTGrupAciklama": "WP 20 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-20.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2051,7 +2187,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP20",
         "ALTGrupAciklama": "WP 20 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-20.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2066,7 +2203,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP20",
         "ALTGrupAciklama": "WP 20 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-20.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2081,7 +2219,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP24",
         "ALTGrupAciklama": "WP 24",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-24.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2096,7 +2235,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP24",
         "ALTGrupAciklama": "WP 24",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-24.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2111,7 +2251,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP24",
         "ALTGrupAciklama": "WP 24",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-24.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2126,7 +2267,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP24",
         "ALTGrupAciklama": "WP 24",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-24.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2141,7 +2283,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP24",
         "ALTGrupAciklama": "WP 24",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-24.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2156,7 +2299,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP24",
         "ALTGrupAciklama": "WP 24",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-24.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2171,7 +2315,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP26",
         "ALTGrupAciklama": "WP 26",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-26.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2186,7 +2331,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP26",
         "ALTGrupAciklama": "WP 26",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-26.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2201,7 +2347,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP26",
         "ALTGrupAciklama": "WP 26",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WP-26.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2216,7 +2363,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP9",
         "ALTGrupAciklama": "WP 9",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n120 Amp. DC\t85 Amp. AC\nÇalışma Süresi\t% 40\nElectrod Çapı\t1.0 - 1.6 mm.",
+        "AltGrupImage": "TIG-WP-9.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2231,7 +2379,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP9",
         "ALTGrupAciklama": "WP 9",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n120 Amp. DC\t85 Amp. AC\nÇalışma Süresi\t% 40\nElectrod Çapı\t1.0 - 1.6 mm.",
+        "AltGrupImage": "TIG-WP-9.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2246,7 +2395,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WP9",
         "ALTGrupAciklama": "WP 9",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n120 Amp. DC\t85 Amp. AC\nÇalışma Süresi\t% 40\nElectrod Çapı\t1.0 - 1.6 mm.",
+        "AltGrupImage": "TIG-WP-9.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2261,7 +2411,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WT500",
         "ALTGrupAciklama": "WT 500 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WT-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2276,7 +2427,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WT500",
         "ALTGrupAciklama": "WT 500 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WT-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2291,7 +2443,8 @@
         "UstGrupImage": "Ust_TIG-Sivicli.jpg",
         "ALTGrup": "TIG-SIVICLI-WT500",
         "ALTGrupAciklama": "WT 500 Su Soğutmalı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "TIG-WT-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2306,7 +2459,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2321,7 +2475,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2336,7 +2491,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2351,7 +2507,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2366,7 +2523,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2381,7 +2539,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2396,7 +2555,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2411,7 +2571,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-GAZDAGITICI",
         "ALTGrupAciklama": "Gaz Dağıtıcılar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-GAZDAGITICI.jpg",
         "KullananUrunKod": "TWS02403,TWS02404,TW02403,TW02404,TW05003,TW05004"
     },
     {
@@ -2426,7 +2587,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-GAZDAGITICI",
         "ALTGrupAciklama": "Gaz Dağıtıcılar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-GAZDAGITICI.jpg",
         "KullananUrunKod": "TWS03603,TWS03604,TW03603,TW03604,TWPRO3603,TWPRO3604"
     },
     {
@@ -2441,7 +2603,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-GAZDAGITICI",
         "ALTGrupAciklama": "Gaz Dağıtıcılar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-GAZDAGITICI.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TWS05103,TWS05104,TW05103,TW05104,TW06103,TW06104,TWPRO5103,TWPRO5104"
     },
     {
@@ -2456,7 +2619,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-GAZDAGITICI",
         "ALTGrupAciklama": "Gaz Dağıtıcılar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-GAZDAGITICI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2471,7 +2635,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-GAZDAGITICI",
         "ALTGrupAciklama": "Gaz Dağıtıcılar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-GAZDAGITICI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2486,7 +2651,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-GAZDAGITICI",
         "ALTGrupAciklama": "Gaz Dağıtıcılar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-GAZDAGITICI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2501,7 +2667,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2516,7 +2683,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2531,7 +2699,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2546,7 +2715,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2561,7 +2731,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2576,7 +2747,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2591,7 +2763,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2606,7 +2779,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2621,7 +2795,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2636,7 +2811,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2651,7 +2827,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2666,7 +2843,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2681,7 +2859,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2696,7 +2875,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2711,7 +2891,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2726,7 +2907,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2741,7 +2923,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2756,7 +2939,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2771,7 +2955,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2786,7 +2971,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2801,7 +2987,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2816,7 +3003,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2831,7 +3019,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2846,7 +3035,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2861,7 +3051,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2876,7 +3067,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2891,7 +3083,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2906,7 +3099,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2921,7 +3115,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2936,7 +3131,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2951,7 +3147,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2966,7 +3163,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2981,7 +3179,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -2996,7 +3195,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3011,7 +3211,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3026,7 +3227,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3041,7 +3243,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3056,7 +3259,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3071,7 +3275,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3086,7 +3291,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3101,7 +3307,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-ILETKEN",
         "ALTGrupAciklama": "İletkenler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-ILETKEN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3116,7 +3323,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": "TWS6553Y,TWS6554Y"
     },
     {
@@ -3131,7 +3339,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": "TWS2053,TWS2054"
     },
     {
@@ -3146,7 +3355,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": "TWS3053,TWS3054"
     },
     {
@@ -3161,7 +3371,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": "TWS5153,TWS5154,TWS4053,TWS4054"
     },
     {
@@ -3176,7 +3387,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TWS05103,TWS05104,TW05103,TW05104,TW06103,TW06104,TWPRO5103,TWPRO5104"
     },
     {
@@ -3191,7 +3403,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TWS05103,TWS05104,TW05103,TW05104,TW06103,TW06104,TWPRO5103,TWPRO5104"
     },
     {
@@ -3206,7 +3419,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-IZALATOR",
         "ALTGrupAciklama": "İzalatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-IZALATOR.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3221,7 +3435,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3236,7 +3451,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3251,7 +3467,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3266,7 +3483,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3281,7 +3499,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3296,7 +3515,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3311,7 +3531,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3326,7 +3547,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3341,7 +3563,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3356,7 +3579,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3371,7 +3595,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3386,7 +3611,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3401,7 +3627,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3416,7 +3643,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3431,7 +3659,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3446,7 +3675,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3461,7 +3691,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3476,7 +3707,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3491,7 +3723,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KELEBCE",
         "ALTGrupAciklama": "Kelepçeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KELEBCE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3506,7 +3739,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KILIFHORTUM",
         "ALTGrupAciklama": "Dış Kılıf ve Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KILIFHORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3521,7 +3755,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3536,7 +3771,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3551,7 +3787,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3566,7 +3803,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3581,7 +3819,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3596,7 +3835,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3611,7 +3851,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3626,7 +3867,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3641,7 +3883,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3656,7 +3899,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3671,7 +3915,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3686,7 +3931,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3701,7 +3947,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3716,7 +3963,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3731,7 +3979,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3746,7 +3995,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3761,7 +4011,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3776,7 +4027,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3791,7 +4043,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3806,7 +4059,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3821,7 +4075,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3836,7 +4091,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3851,7 +4107,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3866,7 +4123,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3881,7 +4139,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3896,7 +4155,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3911,7 +4171,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3926,7 +4187,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3941,7 +4203,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3956,7 +4219,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3971,7 +4235,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -3986,7 +4251,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4001,7 +4267,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4016,7 +4283,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4031,7 +4299,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4046,7 +4315,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4061,7 +4331,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4076,7 +4347,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4091,7 +4363,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4106,7 +4379,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4121,7 +4395,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4136,7 +4411,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4151,7 +4427,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4166,7 +4443,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4181,7 +4459,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4196,7 +4475,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4211,7 +4491,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4226,7 +4507,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4241,7 +4523,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4256,7 +4539,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4271,7 +4555,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4286,7 +4571,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4301,7 +4587,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4316,7 +4603,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4331,7 +4619,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4346,7 +4635,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4361,7 +4651,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4376,7 +4667,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4391,7 +4683,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4406,7 +4699,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4421,7 +4715,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4436,7 +4731,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4451,7 +4747,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4466,7 +4763,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4481,7 +4779,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4496,7 +4795,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4511,7 +4811,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4526,7 +4827,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4541,7 +4843,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KONTAKMEME",
         "ALTGrupAciklama": "Kontak Memeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KONTAKMEME.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4556,7 +4859,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4571,7 +4875,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4586,7 +4891,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4601,7 +4907,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4616,7 +4923,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4631,7 +4939,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4646,7 +4955,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TW05003,TW05004"
     },
     {
@@ -4661,7 +4971,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TR01303,TR01304"
     },
     {
@@ -4676,7 +4987,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TR01403,TR01404"
     },
     {
@@ -4691,7 +5003,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TRÖ0503,TRÖ0504"
     },
     {
@@ -4706,7 +5019,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TW06103,TW06104"
     },
     {
@@ -4721,7 +5035,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TW05003,TW05004"
     },
     {
@@ -4736,7 +5051,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS05103,TWS05104,TW05103,TW05104,TWPRO5103,TWPRO5104"
     },
     {
@@ -4751,7 +5067,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TYT1503,TYT1504"
     },
     {
@@ -4766,7 +5083,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TYT2503,TYT2504"
     },
     {
@@ -4781,7 +5099,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS01803,TWS01804,TW01803,TW01804,TWPRO1803,TWPRO1804"
     },
     {
@@ -4796,7 +5115,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4811,7 +5131,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS02403,TWS02404,TW02403,TW02404"
     },
     {
@@ -4826,7 +5147,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4841,7 +5163,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS02603,TWS02604,TW02603,TW02604,TWPRO2603,TWPRO2604"
     },
     {
@@ -4856,7 +5179,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4871,7 +5195,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4886,7 +5211,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS03603,TWS03604,TW03603,TW03604,TWPRO3603,TWPRO3604"
     },
     {
@@ -4901,7 +5227,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4916,7 +5243,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TW05003,TW05004"
     },
     {
@@ -4931,7 +5259,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4946,7 +5275,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS05103,TWS05104,TW05103,TW05104,TWPRO5103,TWPRO5104"
     },
     {
@@ -4961,7 +5291,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4976,7 +5307,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -4991,7 +5323,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TW06103,TW06104"
     },
     {
@@ -5006,7 +5339,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5021,7 +5355,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS2053,TWS2054"
     },
     {
@@ -5036,7 +5371,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS3053,TWS3054"
     },
     {
@@ -5051,7 +5387,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS4053,TWS4054"
     },
     {
@@ -5066,7 +5403,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5081,7 +5419,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": "TWS05103,TWS05104,TW05103,TW05104,TWPRO5103,TWPRO5104"
     },
     {
@@ -5096,7 +5435,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-KUGUBOYUN",
         "ALTGrupAciklama": "Kuğuboyunları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-KUGUBOYUN.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5111,7 +5451,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5126,7 +5467,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5141,7 +5483,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TR12703,TR12704"
     },
     {
@@ -5156,7 +5499,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TR12703,TR12704"
     },
     {
@@ -5171,7 +5515,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TR01653,TR01654"
     },
     {
@@ -5186,7 +5531,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS02403,TWS02404,TW02403,TW02404,TW05003,TW05004"
     },
     {
@@ -5201,7 +5547,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS02603,TWS02604,TW02603,TW02604,TWPRO2603,TWPRO2604,TYT2503,TYT2504"
     },
     {
@@ -5216,7 +5563,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS03603,TWS03604,TW03603,TW03604,TWPRO3603,TWPRO3604"
     },
     {
@@ -5231,7 +5579,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWPRO3603,TWPRO3604"
     },
     {
@@ -5246,7 +5595,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TWS05103,TWS05104,TW05103,TW05104,TW06103,TW06104,TWPRO5103,TWPRO5104"
     },
     {
@@ -5261,7 +5611,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS3053,TWS3054,TWS2053,TWS2054"
     },
     {
@@ -5276,7 +5627,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS4053,TWS4054"
     },
     {
@@ -5291,7 +5643,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5306,7 +5659,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS5153,TWS5154"
     },
     {
@@ -5321,7 +5675,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5336,7 +5691,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TWS6553Y,TWS6554Y"
     },
     {
@@ -5351,7 +5707,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-MEMENIPEL",
         "ALTGrupAciklama": "Meme Nipelleri",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-MEMENIPEL.jpg",
         "KullananUrunKod": "TR01653Y,TR01654Y"
     },
     {
@@ -5366,7 +5723,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TR01303,TR01304"
     },
     {
@@ -5381,7 +5739,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5396,7 +5755,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TR01653,TR01654"
     },
     {
@@ -5411,7 +5771,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS6553Y,TWS6554Y"
     },
     {
@@ -5426,7 +5787,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TR01653Y,TR01654Y"
     },
     {
@@ -5441,7 +5803,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TRÖ0503,TRÖ0504,TR12703,TR12704"
     },
     {
@@ -5456,7 +5819,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TR01403,TR01404"
     },
     {
@@ -5471,7 +5835,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS01803,TWS01804,TW01803,TW01804,TWPRO1803,TWPRO1804,TYT1503,TYT1504"
     },
     {
@@ -5486,7 +5851,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS02403,TWS02404,TW02403,TW02404,TW05003,TW05004"
     },
     {
@@ -5501,7 +5867,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS02603,TWS02604,TW02603,TW02604,TWPRO2603,TWPRO2604,TYT2503,TYT2504"
     },
     {
@@ -5516,7 +5883,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS03603,TWS03604,TW03603,TW03604,TWPRO3603,TWPRO3604"
     },
     {
@@ -5531,7 +5899,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS06103,TWS06104,TWS05103,TWS05104,TW05103,TW05104,TW06103,TW06104,TWPRO5103,TWPRO5104"
     },
     {
@@ -5546,7 +5915,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS2053,TWS2054"
     },
     {
@@ -5561,7 +5931,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS3053,TWS3054"
     },
     {
@@ -5576,7 +5947,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": "TWS5153,TWS5154,TWS4053,TWS4054"
     },
     {
@@ -5591,7 +5963,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZUL",
         "ALTGrupAciklama": "Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5606,7 +5979,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULPASTA",
         "ALTGrupAciklama": "Nozul Pastası",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULPASTA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5621,7 +5995,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TR01303,TR01304"
     },
     {
@@ -5636,7 +6011,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TR01303,TR01304"
     },
     {
@@ -5651,7 +6027,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TR01403,TR01404"
     },
     {
@@ -5666,7 +6043,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5681,7 +6059,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TR01653,TR01654"
     },
     {
@@ -5696,7 +6075,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TRÖ0503,TRÖ0504,TR12703,TR12704"
     },
     {
@@ -5711,7 +6091,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TWS01803,TWS01804,TW01803,TW01804,TWPRO1803,TWPRO1804,TYT1503,TYT1504"
     },
     {
@@ -5726,7 +6107,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TWS02603,TWS02604,TW02603,TW02604,TWPRO2603,TWPRO2604,TYT2503,TYT2504"
     },
     {
@@ -5741,7 +6123,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5756,7 +6139,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5771,7 +6155,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TWS01803,TWS01804,TW01803,TW01804,TWPRO1803,TWPRO1804,TYT1503,TYT1504"
     },
     {
@@ -5786,7 +6171,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5801,7 +6187,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": "TWS02603,TWS02604,TW02603,TW02604,TWPRO2603,TWPRO2604"
     },
     {
@@ -5816,7 +6203,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAK",
         "ALTGrupAciklama": "Nozul Yatağı",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5831,7 +6219,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAKIZALATOR",
         "ALTGrupAciklama": "Nozul Yatağı İzalatörü",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAKIZALATOR.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5846,7 +6235,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-NOZULYATAKIZALATOR",
         "ALTGrupAciklama": "Nozul Yatağı İzalatörü",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-NOZULYATAKIZALATOR.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5861,7 +6251,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-TETIK",
         "ALTGrupAciklama": "Tetikler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-TETIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5876,7 +6267,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-TETIK",
         "ALTGrupAciklama": "Tetikler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-TETIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5891,7 +6283,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-TETIK",
         "ALTGrupAciklama": "Tetikler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-TETIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5906,7 +6299,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-TETIK",
         "ALTGrupAciklama": "Tetikler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-TETIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5921,7 +6315,8 @@
         "UstGrupImage": "Ust_YP-MIG.jpg",
         "ALTGrup": "YP-MIG-TETIK",
         "ALTGrupAciklama": "Tetikler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-MIG-TETIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5936,7 +6331,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-JAKI-DISI",
         "ALTGrupAciklama": "Su Jakı Dişi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-JAKI-DISI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5951,7 +6347,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-JAKI-DISI",
         "ALTGrupAciklama": "Su Jakı Dişi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-JAKI-DISI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5966,7 +6363,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-JAKI-DISI",
         "ALTGrupAciklama": "Su Jakı Dişi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-JAKI-DISI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5981,7 +6379,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-JAKI-DISI",
         "ALTGrupAciklama": "Su Jakı Dişi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-JAKI-DISI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -5996,7 +6395,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-JAKI-DISI",
         "ALTGrupAciklama": "Su Jakı Dişi",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-JAKI-DISI.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6011,7 +6411,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-UNITE-PARCA",
         "ALTGrupAciklama": "Ünite Yedek Parça",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-UNITE-PARCA.jpg",
         "KullananUrunKod": "SSÜ0220"
     },
     {
@@ -6026,7 +6427,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-UNITE-PARCA",
         "ALTGrupAciklama": "Ünite Yedek Parça",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-UNITE-PARCA.jpg",
         "KullananUrunKod": "SSÜ0220"
     },
     {
@@ -6041,7 +6443,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-UNITE-PARCA",
         "ALTGrupAciklama": "Ünite Yedek Parça",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-UNITE-PARCA.jpg",
         "KullananUrunKod": "SSÜ0220"
     },
     {
@@ -6056,7 +6459,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-UNITE-PARCA",
         "ALTGrupAciklama": "Ünite Yedek Parça",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-UNITE-PARCA.jpg",
         "KullananUrunKod": "SSÜ0220"
     },
     {
@@ -6071,7 +6475,8 @@
         "UstGrupImage": "Ust_YP-Su.jpg",
         "ALTGrup": "YP-SU-UNITE-PARCA",
         "ALTGrupAciklama": "Ünite Yedek Parça",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-SU-UNITE-PARCA.jpg",
         "KullananUrunKod": "SSÜ0220"
     },
     {
@@ -6086,7 +6491,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6101,7 +6507,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6116,7 +6523,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6131,7 +6539,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6146,7 +6555,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6161,7 +6571,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6176,7 +6587,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6191,7 +6603,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6206,7 +6619,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6221,7 +6635,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6236,7 +6651,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6251,7 +6667,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6266,7 +6683,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6281,7 +6699,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6296,7 +6715,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6311,7 +6731,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6326,7 +6747,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6341,7 +6763,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-CELIK",
         "ALTGrupAciklama": "Çelik Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-CELIK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6356,7 +6779,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6371,7 +6795,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6386,7 +6811,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6401,7 +6827,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6416,7 +6843,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6431,7 +6859,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6446,7 +6875,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6461,7 +6891,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6476,7 +6907,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6491,7 +6923,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-KARBON",
         "ALTGrupAciklama": "Karbon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-KARBON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6506,7 +6939,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-TEFLON",
         "ALTGrupAciklama": "Teflon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-TEFLON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6521,7 +6955,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-TEFLON",
         "ALTGrupAciklama": "Teflon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-TEFLON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6536,7 +6971,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-TEFLON",
         "ALTGrupAciklama": "Teflon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-TEFLON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6551,7 +6987,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-TEFLON",
         "ALTGrupAciklama": "Teflon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-TEFLON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6566,7 +7003,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-TEFLON",
         "ALTGrupAciklama": "Teflon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-TEFLON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6581,7 +7019,8 @@
         "UstGrupImage": "Ust_YP-Tel.jpg",
         "ALTGrup": "YP-TEL-YOLLUK-TEFLON",
         "ALTGrupAciklama": "Teflon Tel Yollukları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TEL-YOLLUK-TEFLON.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6596,7 +7035,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-BAGLANTIJAK",
         "ALTGrupAciklama": "Bağlantı Jakları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-BAGLANTIJAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6611,7 +7051,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-BAGLANTIJAK",
         "ALTGrupAciklama": "Bağlantı Jakları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-BAGLANTIJAK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6626,7 +7067,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6641,7 +7083,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6656,7 +7099,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6671,7 +7115,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6686,7 +7131,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6701,7 +7147,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6716,7 +7163,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6731,7 +7179,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6746,7 +7195,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6761,7 +7211,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6776,7 +7227,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6791,7 +7243,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-DISKILIF",
         "ALTGrupAciklama": "Dış Kılıf",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-DISKILIF.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6806,7 +7259,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6821,7 +7275,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6836,7 +7291,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6851,7 +7307,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6866,7 +7323,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6881,7 +7339,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-ELCEK",
         "ALTGrupAciklama": "Elcekler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-ELCEK.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6896,7 +7355,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6911,7 +7371,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6926,7 +7387,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6941,7 +7403,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6956,7 +7419,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6971,7 +7435,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -6986,7 +7451,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7001,7 +7467,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZLENS",
         "ALTGrupAciklama": "Gaz Lensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZLENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7016,7 +7483,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZMUSLUK",
         "ALTGrupAciklama": "Gaz Musluk",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZMUSLUK.jpg",
         "KullananUrunKod": "TGTM2604,TGTM2608"
     },
     {
@@ -7031,7 +7499,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZMUSLUK",
         "ALTGrupAciklama": "Gaz Musluk",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZMUSLUK.jpg",
         "KullananUrunKod": "TGTM0904,TGTM0908"
     },
     {
@@ -7046,7 +7515,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GAZMUSLUK",
         "ALTGrupAciklama": "Gaz Musluk",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GAZMUSLUK.jpg",
         "KullananUrunKod": "TGTM1704,TGTM1708"
     },
     {
@@ -7061,7 +7531,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTM1704,TGTM1708"
     },
     {
@@ -7076,7 +7547,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTM1704,TGTM1708"
     },
     {
@@ -7091,7 +7563,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTT1704,TGTT1708"
     },
     {
@@ -7106,7 +7579,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTT1704,TGTT1708"
     },
     {
@@ -7121,7 +7595,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7136,7 +7611,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWP1804,TGWP1808"
     },
     {
@@ -7151,7 +7627,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWP1804,TGWP1808"
     },
     {
@@ -7166,7 +7643,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7181,7 +7659,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7196,7 +7675,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7211,7 +7691,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWPS2404W,TGWPS2408W"
     },
     {
@@ -7226,7 +7707,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWP2404,TGWP2408"
     },
     {
@@ -7241,7 +7723,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWPS2404W,TGWPS2408W"
     },
     {
@@ -7256,7 +7739,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWP2404,TGWP2408"
     },
     {
@@ -7271,7 +7755,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7286,7 +7771,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWPS2404W,TGWPS2408W"
     },
     {
@@ -7301,7 +7787,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWPS2404W,TGWPS2408W"
     },
     {
@@ -7316,7 +7803,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTM2604,TGTM2608"
     },
     {
@@ -7331,7 +7819,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTM2604,TGTM2608"
     },
     {
@@ -7346,7 +7835,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWP2604,TGWP2608"
     },
     {
@@ -7361,7 +7851,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWP2604,TGWP2608"
     },
     {
@@ -7376,7 +7867,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTM0904,TGTM0908"
     },
     {
@@ -7391,7 +7883,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTM0904,TGTM0908"
     },
     {
@@ -7406,7 +7899,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTT0904,TGTT0908"
     },
     {
@@ -7421,7 +7915,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGTT0904,TGTT0908"
     },
     {
@@ -7436,7 +7931,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDE",
         "ALTGrupAciklama": "Gövdeler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDE.jpg",
         "KullananUrunKod": "TGWTO5004,TGWTO5008"
     },
     {
@@ -7451,7 +7947,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDEROBOT",
         "ALTGrupAciklama": "Gövde Robot",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDEROBOT.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7466,7 +7963,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDEROBOT",
         "ALTGrupAciklama": "Gövde Robot",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDEROBOT.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7481,7 +7979,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-GOVDEROBOT",
         "ALTGrupAciklama": "Gövde Robot",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-GOVDEROBOT.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7496,7 +7995,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-HORTUM",
         "ALTGrupAciklama": "Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-HORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7511,7 +8011,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-HORTUM",
         "ALTGrupAciklama": "Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-HORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7526,7 +8027,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-HORTUM",
         "ALTGrupAciklama": "Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-HORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7541,7 +8043,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-HORTUM",
         "ALTGrupAciklama": "Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-HORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7556,7 +8059,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-HORTUM",
         "ALTGrupAciklama": "Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-HORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7571,7 +8075,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-HORTUM",
         "ALTGrupAciklama": "Hortumlar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-HORTUM.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7586,7 +8091,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-INSULATOR",
         "ALTGrupAciklama": "İnsülatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-INSULATOR.jpg",
         "KullananUrunKod": "TGWP1804,TGWP1808"
     },
     {
@@ -7601,7 +8107,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-INSULATOR",
         "ALTGrupAciklama": "İnsülatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-INSULATOR.jpg",
         "KullananUrunKod": "TGTT1704,TGTT1708,TGTM1704,TGTM1708,TGTM2604,TGTM2608"
     },
     {
@@ -7616,7 +8123,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-INSULATOR",
         "ALTGrupAciklama": "İnsülatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-INSULATOR.jpg",
         "KullananUrunKod": "TGTT0904,TGTT0908"
     },
     {
@@ -7631,7 +8139,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-INSULATOR",
         "ALTGrupAciklama": "İnsülatör",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-INSULATOR.jpg",
         "KullananUrunKod": "TGWP2404,TGWP2408"
     },
     {
@@ -7646,7 +8155,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7661,7 +8171,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7676,7 +8187,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7691,7 +8203,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7706,7 +8219,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7721,7 +8235,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7736,7 +8251,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7751,7 +8267,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7766,7 +8283,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7781,7 +8299,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7796,7 +8315,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7811,7 +8331,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7826,7 +8347,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7841,7 +8363,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7856,7 +8379,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7871,7 +8395,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7886,7 +8411,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7901,7 +8427,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7916,7 +8443,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7931,7 +8459,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7946,7 +8475,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7961,7 +8491,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7976,7 +8507,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -7991,7 +8523,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8006,7 +8539,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-NOZUL",
         "ALTGrupAciklama": "Seramik Nozullar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-NOZUL.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8021,7 +8555,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8036,7 +8571,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8051,7 +8587,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8066,7 +8603,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8081,7 +8619,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8096,7 +8635,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8111,7 +8651,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8126,7 +8667,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8141,7 +8683,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8156,7 +8699,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8171,7 +8715,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8186,7 +8731,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8201,7 +8747,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8216,7 +8763,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8231,7 +8779,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENS",
         "ALTGrupAciklama": "Pensler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENS.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8246,7 +8795,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8261,7 +8811,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8276,7 +8827,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8291,7 +8843,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8306,7 +8859,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8321,7 +8875,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8336,7 +8891,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8351,7 +8907,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8366,7 +8923,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8381,7 +8939,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8396,7 +8955,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8411,7 +8971,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-PENSYUVA",
         "ALTGrupAciklama": "Pens Yuvaları",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-PENSYUVA.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8426,7 +8987,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-SIVIC",
         "ALTGrupAciklama": "Siviçler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-SIVIC.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8441,7 +9003,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-SIVIC",
         "ALTGrupAciklama": "Siviçler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-SIVIC.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8456,7 +9019,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-SIVIC",
         "ALTGrupAciklama": "Siviçler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-SIVIC.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8471,7 +9035,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-SIVIC",
         "ALTGrupAciklama": "Siviçler",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-SIVIC.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -8486,7 +9051,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-TAPA",
         "ALTGrupAciklama": "Tapalar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-TAPA.jpg",
         "KullananUrunKod": "TGWP2604,TGWP2608,TGTM1704,TGTM1708,TGTM2604,TGTM2608"
     },
     {
@@ -8501,7 +9067,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-TAPA",
         "ALTGrupAciklama": "Tapalar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-TAPA.jpg",
         "KullananUrunKod": "TGTT0904,TGTT0908,TGTM0904,TGTM0908"
     },
     {
@@ -8516,7 +9083,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-TAPA",
         "ALTGrupAciklama": "Tapalar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-TAPA.jpg",
         "KullananUrunKod": "TGTT1704,TGTT1708,TGTM1704,TGTM1708,TGTM2604,TGTM2608"
     },
     {
@@ -8531,7 +9099,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-TAPA",
         "ALTGrupAciklama": "Tapalar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-TAPA.jpg",
         "KullananUrunKod": "TGTT0904,TGTT0908,TGTM0904,TGTM0908"
     },
     {
@@ -8546,7 +9115,8 @@
         "UstGrupImage": "Ust_YP-TIG.jpg",
         "ALTGrup": "YP-TIG-TAPA",
         "ALTGrupAciklama": "Tapalar",
-        "AltGrupImage": "0",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "YP-TIG-TAPA.jpg",
         "KullananUrunKod": "TGWTO5004,TGWTO5008"
     },
     {
@@ -8561,6 +9131,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8576,6 +9147,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8591,6 +9163,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8606,6 +9179,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8621,6 +9195,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8636,6 +9211,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8651,6 +9227,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8666,6 +9243,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8681,6 +9259,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8696,6 +9275,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8711,6 +9291,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8726,6 +9307,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8741,6 +9323,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8756,6 +9339,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8771,6 +9355,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8786,6 +9371,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8801,6 +9387,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8816,6 +9403,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8831,6 +9419,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8846,6 +9435,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8861,6 +9451,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8876,6 +9467,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8891,6 +9483,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8906,6 +9499,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8921,6 +9515,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8936,6 +9531,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8951,6 +9547,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8966,6 +9563,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8981,6 +9579,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -8996,6 +9595,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9011,6 +9611,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9026,6 +9627,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9041,6 +9643,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9056,6 +9659,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9071,6 +9675,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9086,6 +9691,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9101,6 +9707,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9116,6 +9723,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9131,6 +9739,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9146,6 +9755,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9161,6 +9771,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9176,6 +9787,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     },
@@ -9191,6 +9803,7 @@
         "UstGrupImage": "#N/A",
         "ALTGrup": "",
         "ALTGrupAciklama": "#N/A",
+        "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
         "KullananUrunKod": ""
     }

@@ -11,6 +11,7 @@ export interface Product {
   ALTGrup: string;
   ALTGrupAciklama: string;
   AltGrupImage: string;
+  AltGrupUrunOzellik: string;
   KullananUrunKod: string;
 }
 
@@ -18,6 +19,7 @@ export interface AltGrupNode {
   key: string;
   name: string;
   image?: string;
+  ozellik?: string;
   products: Product[];
 }
 
