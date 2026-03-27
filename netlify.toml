@@ -1,6 +1,7 @@
 [build]
+  base = "HunerWeb/web"
   command = "npm run build"
-  publish = "out"
+  publish = "HunerWeb/web/out"
 
 [build.environment]
   NODE_VERSION = "20"
