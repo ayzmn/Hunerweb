@@ -9,10 +9,10 @@
         "USTGrup": "CO2-ISITICI-UNITE",
         "USTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "UstGrupImage": "Ust_co2-isitici.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "CO2-UNITE",
+        "ALTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_co2-isitici.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -25,10 +25,10 @@
         "USTGrup": "CO2-ISITICI-UNITE",
         "USTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "UstGrupImage": "Ust_co2-isitici.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "CO2-UNITE",
+        "ALTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_co2-isitici.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -41,10 +41,10 @@
         "USTGrup": "CO2-ISITICI-UNITE",
         "USTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "UstGrupImage": "Ust_co2-isitici.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "CO2-UNITE",
+        "ALTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_co2-isitici.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -57,10 +57,10 @@
         "USTGrup": "CO2-ISITICI-UNITE",
         "USTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "UstGrupImage": "Ust_co2-isitici.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "CO2-UNITE",
+        "ALTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_co2-isitici.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -73,10 +73,10 @@
         "USTGrup": "CO2-ISITICI-UNITE",
         "USTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "UstGrupImage": "Ust_co2-isitici.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "CO2-UNITE",
+        "ALTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_co2-isitici.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -89,10 +89,10 @@
         "USTGrup": "CO2-ISITICI-UNITE",
         "USTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "UstGrupImage": "Ust_co2-isitici.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "CO2-UNITE",
+        "ALTGrupAciklama": "Karbondioksit Isıtıcı Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_co2-isitici.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -105,10 +105,10 @@
         "USTGrup": "ELEKTRONIKKART-UNITE",
         "USTGrupAciklama": "Elektronik Kumanda Kartları",
         "UstGrupImage": "Ust_ElekKart.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "EK-UNITE",
+        "ALTGrupAciklama": "Elektronik Kumanda Kartları",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_ElekKart.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -121,10 +121,10 @@
         "USTGrup": "ELEKTRONIKKART-UNITE",
         "USTGrupAciklama": "Elektronik Kumanda Kartları",
         "UstGrupImage": "Ust_ElekKart.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "EK-UNITE",
+        "ALTGrupAciklama": "Elektronik Kumanda Kartları",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_ElekKart.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -137,10 +137,10 @@
         "USTGrup": "GAZVALF-UNITE",
         "USTGrupAciklama": "Gaz Valfleri Ünitesi",
         "UstGrupImage": "Ust_GazValf.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "GV-UNITE",
+        "ALTGrupAciklama": "Gaz Valfleri Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_GazValf.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -153,10 +153,10 @@
         "USTGrup": "GAZVALF-UNITE",
         "USTGrupAciklama": "Gaz Valfleri Ünitesi",
         "UstGrupImage": "Ust_GazValf.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "GV-UNITE",
+        "ALTGrupAciklama": "Gaz Valfleri Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_GazValf.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -169,10 +169,10 @@
         "USTGrup": "GAZVALF-UNITE",
         "USTGrupAciklama": "Gaz Valfleri Ünitesi",
         "UstGrupImage": "Ust_GazValf.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "GV-UNITE",
+        "ALTGrupAciklama": "Gaz Valfleri Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_GazValf.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -185,10 +185,10 @@
         "USTGrup": "GAZVALF-UNITE",
         "USTGrupAciklama": "Gaz Valfleri Ünitesi",
         "UstGrupImage": "Ust_GazValf.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "GV-UNITE",
+        "ALTGrupAciklama": "Gaz Valfleri Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_GazValf.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -201,10 +201,10 @@
         "USTGrup": "GAZVALF-UNITE",
         "USTGrupAciklama": "Gaz Valfleri Ünitesi",
         "UstGrupImage": "Ust_GazValf.jpg",
-        "ALTGrup": "UNITE",
-        "ALTGrupAciklama": "Ünitesi",
+        "ALTGrup": "GV-UNITE",
+        "ALTGrupAciklama": "Gaz Valfleri Ünitesi",
         "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "UNITE.jpg",
+        "AltGrupImage": "Ust_GazValf.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -315,7 +315,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-300",
         "ALTGrupAciklama": "AT 300",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2 mm.",
         "AltGrupImage": "MIG-AT-300.jpg",
         "KullananUrunKod": ""
     },
@@ -331,7 +331,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-300",
         "ALTGrupAciklama": "AT 300",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2 mm.",
         "AltGrupImage": "MIG-AT-300.jpg",
         "KullananUrunKod": ""
     },
@@ -347,7 +347,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-300",
         "ALTGrupAciklama": "AT 300",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2 mm.",
         "AltGrupImage": "MIG-AT-300.jpg",
         "KullananUrunKod": ""
     },
@@ -363,7 +363,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-400",
         "ALTGrupAciklama": "AT 400",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2 mm.",
         "AltGrupImage": "MIG-AT-400.jpg",
         "KullananUrunKod": ""
     },
@@ -379,7 +379,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-400",
         "ALTGrupAciklama": "AT 400",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2 mm.",
         "AltGrupImage": "MIG-AT-400.jpg",
         "KullananUrunKod": ""
     },
@@ -395,7 +395,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-AT-400",
         "ALTGrupAciklama": "AT 400",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2 mm.",
         "AltGrupImage": "MIG-AT-400.jpg",
         "KullananUrunKod": ""
     },
@@ -409,10 +409,10 @@
         "USTGrup": "MIG-AT-DT-TORCH",
         "USTGrupAciklama": "MIG AT-DT TORCH",
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
-        "ALTGrup": "MIG-ATÖ-500",
-        "ALTGrupAciklama": "ATÖ 500",
-        "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "MIG-ATÖ-500.jpg",
+        "ALTGrup": "MIG-ATO-500",
+        "ALTGrupAciklama": "ATO 500",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n450 Amp. CO2\t400 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t1.0 - 2.4 mm.",
+        "AltGrupImage": "MIG-ATO-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -425,10 +425,10 @@
         "USTGrup": "MIG-AT-DT-TORCH",
         "USTGrupAciklama": "MIG AT-DT TORCH",
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
-        "ALTGrup": "MIG-ATÖ-500",
-        "ALTGrupAciklama": "ATÖ 500",
-        "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "MIG-ATÖ-500.jpg",
+        "ALTGrup": "MIG-ATO-500",
+        "ALTGrupAciklama": "ATO 500",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n450 Amp. CO2\t400 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t1.0 - 2.4 mm.",
+        "AltGrupImage": "MIG-ATO-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -441,10 +441,10 @@
         "USTGrup": "MIG-AT-DT-TORCH",
         "USTGrupAciklama": "MIG AT-DT TORCH",
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
-        "ALTGrup": "MIG-ATÖ-500",
-        "ALTGrupAciklama": "ATÖ 500",
-        "AltGrupUrunOzellik": "0",
-        "AltGrupImage": "MIG-ATÖ-500.jpg",
+        "ALTGrup": "MIG-ATO-500",
+        "ALTGrupAciklama": "ATO 500",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n450 Amp. CO2\t400 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t1.0 - 2.4 mm.",
+        "AltGrupImage": "MIG-ATO-500.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -459,7 +459,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-ET",
         "ALTGrupAciklama": "DT 650 ET",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n600 Amp. CO2\t550 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-DT-650-ET.jpg",
         "KullananUrunKod": ""
     },
@@ -475,7 +475,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-ET",
         "ALTGrupAciklama": "DT 650 ET",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n600 Amp. CO2\t550 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-DT-650-ET.jpg",
         "KullananUrunKod": ""
     },
@@ -491,7 +491,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-ET",
         "ALTGrupAciklama": "DT 650 ET",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n600 Amp. CO2\t550 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-DT-650-ET.jpg",
         "KullananUrunKod": ""
     },
@@ -507,7 +507,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-YT",
         "ALTGrupAciklama": "DT 650 YT",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n600 Amp. CO2\t550 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-DT-650-YT.jpg",
         "KullananUrunKod": ""
     },
@@ -523,7 +523,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-YT",
         "ALTGrupAciklama": "DT 650 YT",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n600 Amp. CO2\t550 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-DT-650-YT.jpg",
         "KullananUrunKod": ""
     },
@@ -539,7 +539,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-650-YT",
         "ALTGrupAciklama": "DT 650 YT",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n600 Amp. CO2\t550 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-DT-650-YT.jpg",
         "KullananUrunKod": ""
     },
@@ -555,7 +555,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-700",
         "ALTGrupAciklama": "DT 700",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n700 Amp. CO2\t600 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.2 - 2.4 mm.",
         "AltGrupImage": "MIG-DT-700.jpg",
         "KullananUrunKod": ""
     },
@@ -571,7 +571,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-700",
         "ALTGrupAciklama": "DT 700",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n700 Amp. CO2\t600 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.2 - 2.4 mm.",
         "AltGrupImage": "MIG-DT-700.jpg",
         "KullananUrunKod": ""
     },
@@ -587,7 +587,7 @@
         "UstGrupImage": "Ust_MIG-ATDT.jpg",
         "ALTGrup": "MIG-DT-700",
         "ALTGrupAciklama": "DT 700",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n700 Amp. CO2\t600 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.2 - 2.4 mm.",
         "AltGrupImage": "MIG-DT-700.jpg",
         "KullananUrunKod": ""
     },
@@ -1531,7 +1531,7 @@
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-655",
         "ALTGrupAciklama": "WEC S 655",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n650 Amp. CO2\t590 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 2.0 mm.",
         "AltGrupImage": "MIG-WEC-S-655.jpg",
         "KullananUrunKod": ""
     },
@@ -1547,7 +1547,7 @@
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-655",
         "ALTGrupAciklama": "WEC S 655",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n650 Amp. CO2\t590 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 2.0 mm.",
         "AltGrupImage": "MIG-WEC-S-655.jpg",
         "KullananUrunKod": ""
     },
@@ -1563,7 +1563,7 @@
         "UstGrupImage": "Ust_MIG-Wec-S.jpg",
         "ALTGrup": "MIG-WEC-S-655",
         "ALTGrupAciklama": "WEC S 655",
-        "AltGrupUrunOzellik": "0",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n650 Amp. CO2\t590 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 2.0 mm.",
         "AltGrupImage": "MIG-WEC-S-655.jpg",
         "KullananUrunKod": ""
     },
@@ -1627,7 +1627,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-240",
         "ALTGrupAciklama": "WEC 240",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı\t0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-240.jpg",
         "KullananUrunKod": ""
     },
@@ -1643,7 +1643,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-240",
         "ALTGrupAciklama": "WEC 240",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı\t0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-240.jpg",
         "KullananUrunKod": ""
     },
@@ -1659,7 +1659,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-240",
         "ALTGrupAciklama": "WEC 240",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n250 Amp. CO2\t220 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı\t0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-240.jpg",
         "KullananUrunKod": ""
     },
@@ -1675,7 +1675,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-260",
         "ALTGrupAciklama": "WEC 260",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı: 0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-260.jpg",
         "KullananUrunKod": ""
     },
@@ -1691,7 +1691,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-260",
         "ALTGrupAciklama": "WEC 260",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı: 0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-260.jpg",
         "KullananUrunKod": ""
     },
@@ -1707,7 +1707,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-260",
         "ALTGrupAciklama": "WEC 260",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n230 Amp. CO2\t200 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı: 0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-260.jpg",
         "KullananUrunKod": ""
     },
@@ -1723,7 +1723,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-360",
         "ALTGrupAciklama": "WEC 360",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı: 0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-360.jpg",
         "KullananUrunKod": ""
     },
@@ -1739,7 +1739,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-360",
         "ALTGrupAciklama": "WEC 360",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı: 0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-360.jpg",
         "KullananUrunKod": ""
     },
@@ -1755,7 +1755,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-360",
         "ALTGrupAciklama": "WEC 360",
-        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi\t% 60\nTel Çapı\t0.8 - 1.2mm.",
+        "AltGrupUrunOzellik": "HAVA SOĞUTMALI\n330 Amp. CO2\t300 Amp. Karışım Gaz\nÇalışma Süresi: % 60\nTel Çapı: 0.8 - 1.2mm.",
         "AltGrupImage": "MIG-WEC-360.jpg",
         "KullananUrunKod": ""
     },
@@ -1771,7 +1771,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-500",
         "ALTGrupAciklama": "WEC 500 Su Soğutmalı",
-        "AltGrupUrunOzellik": "SU SOĞUTMALI\n450 Amp. CO2\t410 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n450 Amp. CO2\t410 Amp. Karışım Gaz\nÇalışma Süresi: % 100\nTel Çapı: 1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-WEC-500.jpg",
         "KullananUrunKod": ""
     },
@@ -1787,7 +1787,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-500",
         "ALTGrupAciklama": "WEC 500 Su Soğutmalı",
-        "AltGrupUrunOzellik": "SU SOĞUTMALI\n450 Amp. CO2\t410 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n450 Amp. CO2\t410 Amp. Karışım Gaz\nÇalışma Süresi: % 100\nTel Çapı: 1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-WEC-500.jpg",
         "KullananUrunKod": ""
     },
@@ -1803,7 +1803,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-500",
         "ALTGrupAciklama": "WEC 500 Su Soğutmalı",
-        "AltGrupUrunOzellik": "SU SOĞUTMALI\n450 Amp. CO2\t410 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n450 Amp. CO2\t410 Amp. Karışım Gaz\nÇalışma Süresi: % 100\nTel Çapı: 1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-WEC-500.jpg",
         "KullananUrunKod": ""
     },
@@ -1819,7 +1819,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-510",
         "ALTGrupAciklama": "WEC 510 Su Soğutmalı",
-        "AltGrupUrunOzellik": "SU SOĞUTMALI\n500 Amp. CO2\t450 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n500 Amp. CO2\t450 Amp. Karışım Gaz\nÇalışma Süresi: % 100\nTel Çapı: 1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-WEC-510.jpg",
         "KullananUrunKod": ""
     },
@@ -1835,7 +1835,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-510",
         "ALTGrupAciklama": "WEC 510 Su Soğutmalı",
-        "AltGrupUrunOzellik": "SU SOĞUTMALI\n500 Amp. CO2\t450 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n500 Amp. CO2\t450 Amp. Karışım Gaz\nÇalışma Süresi: % 100\nTel Çapı: 1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-WEC-510.jpg",
         "KullananUrunKod": ""
     },
@@ -1851,7 +1851,7 @@
         "UstGrupImage": "Ust_MIG-Wec.jpg",
         "ALTGrup": "MIG-WEC-510",
         "ALTGrupAciklama": "WEC 510 Su Soğutmalı",
-        "AltGrupUrunOzellik": "SU SOĞUTMALI\n500 Amp. CO2\t450 Amp. Karışım Gaz\nÇalışma Süresi\t% 100\nTel Çapı\t1.0 - 1.6 mm.",
+        "AltGrupUrunOzellik": "SU SOĞUTMALI\n500 Amp. CO2\t450 Amp. Karışım Gaz\nÇalışma Süresi: % 100\nTel Çapı: 1.0 - 1.6 mm.",
         "AltGrupImage": "MIG-WEC-510.jpg",
         "KullananUrunKod": ""
     },
@@ -1913,10 +1913,10 @@
         "USTGrup": "SUSOGUTMA-UNITE",
         "USTGrupAciklama": "Su Soğutma Ünitesi",
         "UstGrupImage": "Ust_SuSogutma.jpg",
-        "ALTGrup": "",
-        "ALTGrupAciklama": "#N/A",
-        "AltGrupUrunOzellik": "#N/A",
-        "AltGrupImage": "#N/A",
+        "ALTGrup": "SS-UNITE",
+        "ALTGrupAciklama": "Su Soğutma Ünitesi",
+        "AltGrupUrunOzellik": "ÖZELLİKLER\nSU DEPOSU \t8 lt.\nMOTOR\n230 AC - 2,5 Amp - 0,37 Kw\n50 Hz - 2800 Rpm\nPOMPA\n40 Hmax - 40 to C\n7 QMax litre/min - 1,1 Pkw\nAĞIRLIK\t15,5 Kg.\nÖLÇÜLER\tDerinlik: 24,5 cm",
+        "AltGrupImage": "Ust_SuSogutma.jpg",
         "KullananUrunKod": ""
     },
     {
@@ -9805,6 +9805,102 @@
         "ALTGrupAciklama": "#N/A",
         "AltGrupUrunOzellik": "#N/A",
         "AltGrupImage": "#N/A",
+        "KullananUrunKod": ""
+    },
+    {
+        "UrunKod": "WFM11324",
+        "Aciklama": "Tel Sürme Ünitesi 2x1 24V",
+        "Fiyat": "",
+        "UrunGrup": "TELSURME",
+        "UrunGrupAciklama": "Tel Sürmeler",
+        "UrunImage": "Urun_TelSurme.jpg",
+        "USTGrup": "TELSURME-UNITE",
+        "USTGrupAciklama": "Tel Sürme Ünitesi",
+        "UstGrupImage": "Ust_TelSurme.jpg",
+        "ALTGrup": "TS-UNITE",
+        "ALTGrupAciklama": "Tel Sürme Ünitesi",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "Ust_TelSurme.jpg",
+        "KullananUrunKod": ""
+    },
+    {
+        "UrunKod": "WFM22324",
+        "Aciklama": "Tel Sürme Ünitesi 2x2 24V",
+        "Fiyat": "",
+        "UrunGrup": "TELSURME",
+        "UrunGrupAciklama": "Tel Sürmeler",
+        "UrunImage": "Urun_TelSurme.jpg",
+        "USTGrup": "TELSURME-UNITE",
+        "USTGrupAciklama": "Tel Sürme Ünitesi",
+        "UstGrupImage": "Ust_TelSurme.jpg",
+        "ALTGrup": "TS-UNITE",
+        "ALTGrupAciklama": "Tel Sürme Ünitesi",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "Ust_TelSurme.jpg",
+        "KullananUrunKod": ""
+    },
+    {
+        "UrunKod": "WFM22342",
+        "Aciklama": "Tel Sürme Ünitesi 2x2 42V",
+        "Fiyat": "",
+        "UrunGrup": "TELSURME",
+        "UrunGrupAciklama": "Tel Sürmeler",
+        "UrunImage": "Urun_TelSurme.jpg",
+        "USTGrup": "TELSURME-UNITE",
+        "USTGrupAciklama": "Tel Sürme Ünitesi",
+        "UstGrupImage": "Ust_TelSurme.jpg",
+        "ALTGrup": "TS-UNITE",
+        "ALTGrupAciklama": "Tel Sürme Ünitesi",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "Ust_TelSurme.jpg",
+        "KullananUrunKod": ""
+    },
+    {
+        "UrunKod": "WFM44324",
+        "Aciklama": "Tel Sürme Ünitesi 4x4 30mm 24V",
+        "Fiyat": "",
+        "UrunGrup": "TELSURME",
+        "UrunGrupAciklama": "Tel Sürmeler",
+        "UrunImage": "Urun_TelSurme.jpg",
+        "USTGrup": "TELSURME-UNITE",
+        "USTGrupAciklama": "Tel Sürme Ünitesi",
+        "UstGrupImage": "Ust_TelSurme.jpg",
+        "ALTGrup": "TS-UNITE",
+        "ALTGrupAciklama": "Tel Sürme Ünitesi",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "Ust_TelSurme.jpg",
+        "KullananUrunKod": ""
+    },
+    {
+        "UrunKod": "WFM44342",
+        "Aciklama": "Tel Sürme Ünitesi 4x4 30mm 42V",
+        "Fiyat": "",
+        "UrunGrup": "TELSURME",
+        "UrunGrupAciklama": "Tel Sürmeler",
+        "UrunImage": "Urun_TelSurme.jpg",
+        "USTGrup": "TELSURME-UNITE",
+        "USTGrupAciklama": "Tel Sürme Ünitesi",
+        "UstGrupImage": "Ust_TelSurme.jpg",
+        "ALTGrup": "TS-UNITE",
+        "ALTGrupAciklama": "Tel Sürme Ünitesi",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "Ust_TelSurme.jpg",
+        "KullananUrunKod": ""
+    },
+    {
+        "UrunKod": "WFM54442",
+        "Aciklama": "Tel Sürme Ünitesi 4x4 40mm 42V",
+        "Fiyat": "",
+        "UrunGrup": "TELSURME",
+        "UrunGrupAciklama": "Tel Sürmeler",
+        "UrunImage": "Urun_TelSurme.jpg",
+        "USTGrup": "TELSURME-UNITE",
+        "USTGrupAciklama": "Tel Sürme Ünitesi",
+        "UstGrupImage": "Ust_TelSurme.jpg",
+        "ALTGrup": "TS-UNITE",
+        "ALTGrupAciklama": "Tel Sürme Ünitesi",
+        "AltGrupUrunOzellik": "0",
+        "AltGrupImage": "Ust_TelSurme.jpg",
         "KullananUrunKod": ""
     }
 ]

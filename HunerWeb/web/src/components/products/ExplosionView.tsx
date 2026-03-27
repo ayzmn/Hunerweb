@@ -57,11 +57,8 @@ export default function ExplosionView({ altGrup, onClose }: Props) {
 
             {/* Title + specs */}
             <div className="flex-1 min-w-0">
-              <div className="section-tag mb-2">Patlamalı Görünüm — Alt Bileşenler</div>
+
               <h3 className="text-2xl font-black text-gradient mb-1">{altGrup.name}</h3>
-              <p className="text-sm mb-3" style={{ color: "var(--muted)" }}>
-                {products.length} ürün bileşeni
-              </p>
 
               {/* Teknik özellikler */}
               {altGrup.ozellik && (
