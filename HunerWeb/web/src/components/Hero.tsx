@@ -13,7 +13,7 @@ const SPARKS = Array.from({ length: 24 }, (_, i) => ({
 }));
 
 const STATS = [
-  { value: "30+", label: "Yıllık Deneyim" },
+  { value: "72+", label: "Yıllık Deneyim" },
   { value: "500+", label: "Ürün Çeşidi" },
   { value: "50+", label: "Ülkeye İhracat" },
   { value: "10K+", label: "Mutlu Müşteri" },
@@ -153,7 +153,7 @@ export default function Hero() {
             >
               <span style={{ color: "var(--text)" }}>Kaynak Teknolojisinde</span>
               <br />
-              <span className="text-gradient">30 Yıllık Uzmanlık</span>
+              <span className="text-gradient">72 Yıllık Uzmanlık</span>
             </motion.h1>
 
             <motion.p

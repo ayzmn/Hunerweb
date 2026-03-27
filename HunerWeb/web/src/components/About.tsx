@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 
 const MILESTONES = [
-  { year: "1990", text: "İstanbul'da kurulan Hüner Ltd., kaynak ekipmanları üretimine başladı." },
-  { year: "2000", text: "İlk uluslararası ihracat. Avrupa pazarlarına WEC serisi torçlar sunuldu." },
+  { year: "1954", text: "Ankarada'da kurulan Hüner Ltd., kaynak ekipmanları üretimine başladı." },
+  { year: "1990", text: "İlk uluslararası ihracat. Avrupa pazarlarına WEC serisi torçlar sunuldu." },
   { year: "2010", text: "ISO sertifikasyonu alındı. Üretim kapasitesi 3 katına çıkarıldı." },
   { year: "2020", text: "Dijital dönüşüm ve yeni WEC-S serisi ile pazar liderliği pekiştirildi." },
 ];
@@ -46,9 +46,11 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-base leading-relaxed" style={{ color: "var(--muted)" }}>
               <p>
-                1990 yılında İstanbul'da kurulan <strong style={{ color: "var(--text)" }}>Hüner Ltd.</strong>,
-                30 yılı aşkın deneyimiyle Türkiye'nin önde gelen kaynak ekipmanları üreticilerinden
-                biri haline gelmiştir.
+                1954 senesinde, kurulmuş bir aile şirketidir. 1985 yılından bu güne Gazaltı Kaynak Makineleri'nin torchları, torch yedekleri, sarf malzemeleri ve aksesuarlarını imal etmekteyiz. Aynı zamanda çeşitli Orta Doğu ve Afrika ülkelerine de ihracat yapmaktayız.
+                Ticari faaliyetlerimiz, Ankara-İstanbul-Bursa olmak üzere üç farklı şehirde sürmektedir. Ankara’ da imalatımız ve merkez mağazamız, İstanbul ve Bursa’ da ise şubelerimiz bulunmaktadır. Ayrıca Türkiye’ nin her bölgesindeki satış temsilciliklerimiz ile ülke ihtiyacına cevap vermekteyiz.
+                Gelişmiş teknolojik ekipman, güçlü pazarlama ve idari birimleriyle Türk Kaynak Sektörü’nün lider ve deneyimli kuruluşları arasında yer alan firmamız, tescilli markaları, “WEC” ve “DATTWELD” ürünleriyle ihracat potansiyelini günden güne arttırmaktadır.
+                Sürekliliğimizin temelini, kalite, iş ve ticaret ahlakımızdan ödün vermememiz oluşturmaktadır.
+                Değerli görüşlerinizin firmamıza her zaman ışık tutacağı ana fikriyle, sizlere hizmet etmekten kıvanç duyarız.
               </p>
               <p>
                 MIG torçlarından TIG sistemlerine, CO2 ısıtıcılardan plazma ekipmanlarına kadar
