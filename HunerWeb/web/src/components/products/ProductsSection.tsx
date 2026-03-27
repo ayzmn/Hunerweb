@@ -87,7 +87,7 @@ export default function ProductsSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
-          className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 mb-10"
+          className="flex flex-wrap justify-center gap-4 mb-10"
         >
           {anaKeys.map((key, i) => {
             const isActive = selectedAna === key;
@@ -102,7 +102,7 @@ export default function ProductsSection() {
                   setSelectedUst(null);
                   setSelectedAlt(null);
                 }}
-                className="rounded-2xl p-5 text-center transition-all duration-300 focus:outline-none"
+                className="rounded-2xl p-5 text-center transition-all duration-300 focus:outline-none w-40"
                 style={{
                   background: isActive ? "rgba(249,115,22,0.15)" : "var(--bg-card)",
                   border: isActive
